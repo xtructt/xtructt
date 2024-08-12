@@ -25,6 +25,7 @@ This project demonstrates my practical experience in:
 - AI application in real-world scenarios
 - Collaborative development in complex robotic systems
 
+[Detailed Project Write-up](https://github.com/RonSilverman/TiaGo)
 <!--
 **xtructt/xtructt** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
